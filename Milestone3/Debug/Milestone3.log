@@ -1,0 +1,25 @@
+﻿  TestProgram.cpp
+e:\windows desktop\milestone3\milestone3\utility.h(33): warning C4244: 'argument': conversion from 'int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+e:\windows desktop\milestone3\milestone3\utility.h(36): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+e:\windows desktop\milestone3\milestone3\perceptron.h(5): warning C4305: '=': truncation from 'double' to 'float'
+e:\windows desktop\milestone3\milestone3\network.h(27): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\windows desktop\milestone3\milestone3\network.h(46): warning C4018: '<': signed/unsigned mismatch
+e:\windows desktop\milestone3\milestone3\network.h(82): warning C4018: '<': signed/unsigned mismatch
+e:\windows desktop\milestone3\milestone3\network.h(95): warning C4018: '<': signed/unsigned mismatch
+e:\windows desktop\milestone3\milestone3\network.h(101): warning C4018: '<': signed/unsigned mismatch
+e:\windows desktop\milestone3\milestone3\network.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\windows desktop\milestone3\milestone3\network.h(141): warning C4018: '<': signed/unsigned mismatch
+e:\windows desktop\milestone3\milestone3\network.h(144): warning C4018: '<': signed/unsigned mismatch
+e:\windows desktop\milestone3\milestone3\network.h(148): warning C4018: '<': signed/unsigned mismatch
+e:\windows desktop\milestone3\milestone3\network.h(159): warning C4018: '<': signed/unsigned mismatch
+e:\windows desktop\milestone3\milestone3\network.h(170): warning C4018: '<': signed/unsigned mismatch
+e:\windows desktop\milestone3\milestone3\network.h(181): warning C4018: '<': signed/unsigned mismatch
+  Milestone3.vcxproj -> E:\Windows Desktop\Milestone3\Debug\Milestone3.exe
